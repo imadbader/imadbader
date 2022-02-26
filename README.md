@@ -85,5 +85,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imadbader&theme=calm&hide_border=true&count_private=true" alt="imadbader"/>
   <img src="https://github-readme-stats.vercel.app/api?username=imadbader&count_private=true&theme=calm&hide_border=true" alt="imadbader"/>
 </p>
-
-
