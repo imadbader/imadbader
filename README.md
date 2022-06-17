@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [open source initiatives to drive social change.](https://github.com/ciudadanointeligente/write-it)
 
-- 📫 How to reach me by **[Email](mailto:sleepy.ice0153@fastmail.com)**
+- 📫 Reach me by **[Email](mailto:sleepy.ice0153@fastmail.com)**
 
 - 📄 See past client work I've done via [Upwork](https://www.upwork.com/freelancers/ibader)
 
