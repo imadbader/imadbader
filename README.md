@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imadbader&show_icons=true&theme=calm)
-![Imad's GitHub stats(private repos)](https://github-readme-stats.vercel.app/api?username=imadbader&count_private=true)
+![Imad's GitHub stats(private repos)](https://github-readme-stats.vercel.app/api?username=imadbader&count_private=true&show_icons=true&theme=calm)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imadbader&show_icons=true&theme=calm)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imadbader&show_icons=true&theme=calm)
 [![trophy](https://github-profile-trophy.vercel.app/?username=imadbader)](https://github.com/ryo-ma/github-profile-trophy)
