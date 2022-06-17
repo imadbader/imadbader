@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imad</h1>
+<h1 align="center">Hi 👋</h1>
 
 <h4 align="center">I'm a full-stack developer operating as a fractional CIO. I work with product, sales, and marketing teams to build the technical solutions needed to mitigate process gaps and ensure operations are aligned with business objectives.</h4>
 
