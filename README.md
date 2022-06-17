@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <h3 align="center"></h3>
 
 
-  https://github-profile-trophy.vercel.app/?username=imadbader&column=-1
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadbader&theme=dark_lover&margin-w=20?username=imadbader" alt="imadbader" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadbader&theme=flat&margin-w=20?username=imadbader" alt="imadbader" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/monkeepooslingr" target="blank"><img src="https://img.shields.io/twitter/follow/monkeepooslingr?logo=twitter&style=for-the-badge" alt="monkeepooslingr" /></a> </p>
 
