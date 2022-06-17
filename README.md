@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Imad</h1>
-<h3 align="center"></h3>
 
+<h4 align="center">I'm a full-stack developer operating as a fractional CIO. I work with product, sales, and marketing teams to build the technical solutions needed to align high-level business objectives and mitigate process gaps.</h4>
 
+</br>
   
 <p align="center"> <a href="https://github.com/imadbader/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadbader&theme=flat&margin-w=20?username=imadbader" alt="imadbader" /></a> </p>
 
