@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/monkeepooslingr" target="blank"><img src="https://img.shields.io/twitter/follow/monkeepooslingr?logo=twitter&style=for-the-badge" alt="monkeepooslingr" /></a> </p>
 
+![My Codewarrior Profile Badge](https://www.codewars.com/users/monkeepooslinger/badges/small?theme=light)
+
 - 🔭 I’m currently working on [a member polling application](https://polls-777251066.development.catalystserverless.com/app/)
 
 - 👯 I’m looking to collaborate on [open source initiatives to drive social change.](https://github.com/ciudadanointeligente/write-it)
