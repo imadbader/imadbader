@@ -3,12 +3,23 @@
 <h4 align="center">I'm a full-stack developer operating as a fractional CIO. I work with product, sales, and marketing teams to build the technical solutions needed to mitigate process gaps and ensure operations are aligned with business objectives.</h4>
 
 </br>
-  
-<p align="center"> <a href="https://github.com/imadbader/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadbader&theme=flat&margin-w=20?username=imadbader" alt="imadbader" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/monkeepooslingr" target="blank"><img src="https://img.shields.io/twitter/follow/monkeepooslingr?logo=twitter&style=for-the-badge" alt="monkeepooslingr" /></a> </p>
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/ibader" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=UPWORK&color=23555f&style=plastic&logo=upwork&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/imadbader/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/monkeepooslingr" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/monkeepooslinger/badges/small?theme=light)
+</br>
 
 - 🔭 I’m currently working on [a member polling application](https://polls-777251066.development.catalystserverless.com/app/)
 
@@ -18,19 +29,59 @@
 
 - 📄 See past client work I've done via [Upwork](https://www.upwork.com/freelancers/ibader)
 
+</br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/monkeepooslinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="monkeepooslinger" height="30" width="40" /></a>
-<a href="https://dev.to/monkeepooslinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="monkeepooslinger" height="30" width="40" /></a>
-<a href="https://twitter.com/monkeepooslingr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="monkeepooslingr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imadbader/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imadbader/" height="30" width="40" /></a>
+<h1 align="center">CONNECT WITH ME</h1>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/ibader" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=UPWORK&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/imadbader/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/monkeepooslingr" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://codepen.io/monkeepooslinger" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=CODEPEN&color=23555f&style=plastic&logo=codepen&logo-color=white"/>
+  </a>
+  <a href="https://dev.to/monkeepooslinger" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=DEV.TO&color=23555f&style=plastic&logo=dev.to&logo-color=white"/>
+  </a>
+  <a href="" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+</br>
+
+<h1 align="center">TECHNOLOGIES & TOOLS</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=bbb111&style=plastic&logo=postman"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=bbb111&style=plastic&logo=heroku"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=4a935c&style=plastic&logo=figma"/>
+</p>
+
+</br>
+
+<h1 align="center">FUN STATS</h1>
+
+<p align="center"><a href="https://github.com/imadbader/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadbader&theme=flat&margin-w=20?username=imadbader" alt="imadbader" /></a> </p>
 
 ![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imadbader&show_icons=true&theme=calm&locale=en)
 ![Imad's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=imadbader&theme=calm&hide_border=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadbader&show_icons=true&theme=calm&locale=en" alt="imadbader" /></p>
+
+
+  
