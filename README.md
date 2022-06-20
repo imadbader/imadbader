@@ -23,8 +23,6 @@
 
 - 🔭 I’m currently working on [a member polling application](https://polls-777251066.development.catalystserverless.com/app/)
 
-- 👯 I’m looking to collaborate on [open source initiatives to drive social change.](https://github.com/ciudadanointeligente/write-it)
-
 - 📫 Reach me by **[Email](mailto:sleepy.ice0153@fastmail.com)**
 
 - 📄 See past client work I've done via [Upwork](https://www.upwork.com/freelancers/ibader)
