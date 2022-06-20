@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/JNVPLKR.png)](https://github.com/imadbader)
 
-<h4 align="center">I'm a full-stack developer operating as a fractional CIO. I work with product, sales, and marketing teams to build the technical solutions needed to mitigate process gaps and ensure operations are aligned with business objectives.</h4>
+<h4 align="center">I'm a full-stack developer operating as a fractional solutions architect. I work with product, sales, and marketing teams to build the technical solutions needed to mitigate process gaps and ensure operations are aligned with business objectives.</h4>
 
 </br>
 
