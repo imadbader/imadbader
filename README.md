@@ -77,16 +77,21 @@
 
 </br>
 
-<p align="center"><a href="https://github.com/imadbader/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=imadbader&theme=flat&margin-w=20?username=imadbader" alt="imadbader" /></a>
-</p>
-
-![Imad's GitHub stats](https://github-readme-stats.vercel.app/api?username=imadbader&show_icons=true&theme=calm&locale=en)
-![Imad's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=imadbader&theme=calm&hide_border=true)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imadbader&show_icons=true&theme=calm&locale=en" alt="imadbader" />
 </p>
 
+</br>
 
-  
+<p align="center"><a href="https://github.com/imadbader/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=imadbader&theme=flat&margin-w=20?username=imadbader" alt="imadbader" /></a>
+</p>
+
+</br>
+                                                                                                                                   
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imadbader&show_icons=true&theme=calm&locale=en" alt="imadbader" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imadbader&theme=calm&hide_border=true" alt="imadbader" />
+</p>
+
+
