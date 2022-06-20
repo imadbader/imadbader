@@ -82,12 +82,6 @@
 </p>
 
 </br>
-
-<p align="center"><a href="https://github.com/imadbader/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=imadbader&theme=flat&margin-w=20?username=imadbader" alt="imadbader" /></a>
-</p>
-
-</br>
                                                                                                                                    
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imadbader&show_icons=true&theme=calm&locale=en" alt="imadbader" />
