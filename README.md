@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=UPWORK&color=23555f&style=plastic&logo=upwork&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/imadbader/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/monkeepooslingr" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
