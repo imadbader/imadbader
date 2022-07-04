@@ -77,5 +77,5 @@
 </br>
 </br>
 
-| <a href="https://github.com/imadbader/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imadbader&theme=calm&hide_border=true&count_private=true" alt="Imad's github stats" /></a> | <a href="https://github.com/imadbader/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadbader&layout=compact&theme=calm&hide_border=true" /></a> |
+| <a href="https://github.com/imadbader/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imadbader&theme=calm&hide_border=true&count_private=true" alt="Imad's github stats" /></a> | <a href="https://github.com/imadbader/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadbader&layout=compact&theme=calm&hide_border=true&card_width=430" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
