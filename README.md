@@ -1,4 +1,4 @@
-<h3 align="center">I'm a product manager and frontend developer with 5+ years of experience in the SaaS space.</h3>
+<h3 align="center">I'm a product manager and frontend developer with 5+ years of experience in the SaaS space. I get excited about opportunities where I can leverage my diverse product and sales background as part of a larger cross-functional team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadbader&label=Profile%20views&color=0e75b6&style=flat" alt="imadbader" /> </p>
 
@@ -22,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadbader&show_icons=true&locale=en&layout=compact" alt="imadbader" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadbader&show_icons=true&locale=en" alt="imadbader" /></p>
-
