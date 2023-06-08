@@ -1,6 +1,8 @@
+<!-- @format -->
+
 [![MasterHead](https://i.imgur.com/JNVPLKR.png)](https://github.com/imadbader)
 
-<h4 align="center">I'm a full-stack developer operating as a fractional solutions architect. I work with product, sales, and marketing teams to build the technical solutions needed to mitigate process gaps and ensure operations are aligned with business objectives.</h4>
+<h4 align="center">I'm a developer with sales management experience operating as a fractional solutions architect. I work with product, sales, and marketing teams to build the technical solutions needed to mitigate process gaps and ensure operations are aligned with business objectives.</h4>
 
 </br>
 
@@ -21,11 +23,11 @@
 
 </br>
 
-- 🔭 I’m currently working on [a member polling application](https://polls-777251066.development.catalystserverless.com/app/)
+-   🔭 I’m currently working on [a member polling application](https://polls-777251066.development.catalystserverless.com/app/)
 
-- 📫 Reach me by **[Email](mailto:sleepy.ice0153@fastmail.com)**
+-   📫 Reach me by **[Email](mailto:sleepy.ice0153@fastmail.com)**
 
-- 📄 See past client work I've done via [Upwork](https://www.upwork.com/freelancers/ibader)
+-   📄 See past client work I've done via [Upwork](https://www.upwork.com/freelancers/ibader)
 
 </br>
 
@@ -78,4 +80,4 @@
 </br>
 
 | <a href="https://github.com/imadbader/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imadbader&theme=calm&hide_border=true&count_private=true" alt="Imad's github stats" /></a> | <a href="https://github.com/imadbader/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadbader&layout=default&theme=calm&hide_border=true&card_width=430&langs_count=3" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
