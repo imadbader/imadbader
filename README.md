@@ -71,13 +71,3 @@
 </p>
 
 </br>
-
-<h1 align="center">FUN STATS</h1>
-
-</br>
-
-</br>
-</br>
-
-| <a href="https://github.com/imadbader/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imadbader&theme=calm&hide_border=true&count_private=true" alt="Imad's github stats" /></a> | <a href="https://github.com/imadbader/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadbader&layout=default&theme=calm&hide_border=true&card_width=430&langs_count=3" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
