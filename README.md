@@ -25,14 +25,6 @@
 
 </br>
 
--   📫 Reach me by **[Email](mailto:sleepy.ice0153@fastmail.com)**
-
--   📄 See past client work I've done via [Upwork](https://www.upwork.com/freelancers/ibader)
-
-</br>
-
-</br>
-
 <h1 align="center">TECHNOLOGIES & TOOLS</h1>
 
 <p align="center">
