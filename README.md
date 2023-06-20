@@ -6,6 +6,8 @@
 
 </br>
 
+<h1 align="center">CONNECT WITH ME</h1>
+
 <p align="center">
   <a href="https://www.upwork.com/freelancers/ibader" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=UPWORK&color=23555f&style=plastic&logo=upwork&logo-color=white"/>
@@ -28,20 +30,6 @@
 -   📄 See past client work I've done via [Upwork](https://www.upwork.com/freelancers/ibader)
 
 </br>
-
-<h1 align="center">CONNECT WITH ME</h1>
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/ibader" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=UPWORK&color=23555f&style=plastic&logo=upwork&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/imadbader/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/monkeepooslingr" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-</p>
 
 </br>
 
