@@ -1,41 +1,27 @@
-<!-- @format -->
+<h1 align="center">Hi 👋, I'm Imad</h1>
+<h3 align="center">A passionate product manager and frontend developer.</h3>
 
-[![MasterHead](https://i.imgur.com/JNVPLKR.png)](https://github.com/imadbader)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imadbader&label=Profile%20views&color=0e75b6&style=flat" alt="imadbader" /> </p>
 
-<h4 align="center">I'm a developer with extensive sales experience operating as a fractional solutions architect. I work with product, sales, and marketing teams to build the technical solutions needed to mitigate process gaps and ensure operations are aligned with business objectives.</h4>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadbader" alt="imadbader" /></a> </p>
 
-</br>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<h1 align="center">CONNECT WITH ME</h1>
-
-<p align="center">
-  <a href="https://www.upwork.com/freelancers/ibader" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=UPWORK&color=23555f&style=plastic&logo=upwork&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/imadbader/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/monkeepooslingr" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <!--a href="" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=cdf998&style=plastic&logo=react&logo-color=white"/>
-  </a -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/imadbader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="imadbader" height="30" width="40" /></a>
+<a href="https://dev.to/@imadbader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@imadbader" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imadbader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imadbader" height="30" width="40" /></a>
+<a href="https://medium.com/@imadbader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imadbader" height="30" width="40" /></a>
 </p>
 
-</br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<h1 align="center">TECHNOLOGIES & TOOLS</h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imadbader&show_icons=true&locale=en&layout=compact" alt="imadbader" /></p>
 
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=DELUGE&color=bbb111&style=plastic&logo=zoho"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=bbb111&style=plastic&logo=node"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imadbader&show_icons=true&locale=en" alt="imadbader" /></p>
 
-</p>
-
-</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imadbader&" alt="imadbader" /></p>
