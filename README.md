@@ -1,8 +1,6 @@
-<h3 align="center">I'm a product manager and frontend developer.</h3>
+<h3 align="center">I'm a product manager and frontend developer with 5+ years of experience in the SaaS space.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadbader&label=Profile%20views&color=0e75b6&style=flat" alt="imadbader" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imadbader" alt="imadbader" /></a> </p>
 
 - 📄 Let's connect! [www.linkedin.com/in/imadbader](www.linkedin.com/in/imadbader)
 
