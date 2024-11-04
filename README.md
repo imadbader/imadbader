@@ -1,6 +1,6 @@
 <!-- @format -->
 
-<h3 align="center">I'm a solution engineer and frontend developer with 6+ years of experience in the SaaS space. I get excited about opportunities where I can leverage my diverse product and sales background as part of a larger cross-functional team!</h3>
+<h3 align="center">I'm a pre-sales solutions engineer and frontend developer with 6+ years of experience in the SaaS space. I get excited about opportunities where I can leverage my diverse product and sales background as part of a larger cross-functional team!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imadbader&label=Profile%20views&color=0e75b6&style=flat" alt="imadbader" /> </p>
 
